@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AleksF2022
+- 👀 I’m interested in web- and java developping.
+- 🌱 I’m currently learning HTML CSS and Java
